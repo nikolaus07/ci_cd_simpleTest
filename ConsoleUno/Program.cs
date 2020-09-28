@@ -7,7 +7,7 @@ namespace ConsoleUno
         static void Main(string[] args)
         {
             Console.WriteLine("programm UNO - writeLine");
-            Console.WriteLine("new qa_branch  writeLine");
+            Console.WriteLine(" qa_branch ");
             Console.ReadKey();
         }
     }
