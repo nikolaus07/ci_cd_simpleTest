@@ -6,7 +6,7 @@ namespace ConsoleUno
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("programm UNO - writeLine - master");
+            Console.WriteLine("programm UNO - qa_branch2");
             Console.ReadKey();
         }
     }

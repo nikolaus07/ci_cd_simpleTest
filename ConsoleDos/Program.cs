@@ -6,7 +6,7 @@ namespace ConsoleDos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("programm DOS - writeLine - master");
+            Console.WriteLine("programm DOS - qa_branch2");
             Console.ReadKey();
         }
     }
