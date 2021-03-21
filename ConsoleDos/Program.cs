@@ -6,7 +6,7 @@ namespace ConsoleDos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("programm DOS - writeLine - master. Test token");
+            Console.WriteLine("programm DOS - writeLine - master. Test ssh avec rider");
             Console.ReadKey();
         }
     }
